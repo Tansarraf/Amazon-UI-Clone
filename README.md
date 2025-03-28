@@ -9,7 +9,7 @@ A frontend replica of Amazon's user interface. This project aims to mimic the co
 - **Product Display**: Displays a sample product listing.
 - **Static Cart Functionality**: A visually desgined cart page.
 - **User Authentication Pages**: Includes Signup and Signin pages for user registration and login.
-  **Familiar Amazon-Like UI** - The design closely resembles the real Amazon website, making it feel intuitive and familiar to users.
+- **Familiar Amazon-Like UI** - The design closely resembles the real Amazon website, making it feel intuitive and familiar to users.
 
 ---
 
